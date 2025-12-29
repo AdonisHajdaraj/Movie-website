@@ -1,0 +1,42 @@
+
+[
+  {
+    "id": 1,
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "genre": "Fantashkencë, Aventurë",
+    "duration": "2h 46m",
+    "rating": 8.7,
+    "description": "Paul Atreides bashkëpunon me Chani dhe Fremen ndërsa kërkon hakmarrje kundër konspiratorëve që shkatërruan familjen e tij. Përballur me një zgjedhje midis dashurisë së tij dhe fatit të universit, ai përpiqet të parandalojë një të ardhme të tmerrshme që vetëm ai mund të parashikojë.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODI0YjNhNjUtYzE2MC00ZDI1LWE5OTgtODVmNDg1N2Q5MzllXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "background": "https://images.unsplash.com/photo-1534447677768-be436bb09401?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1790&q=80",
+    "cast": ["Timothée Chalamet", "Zendaya", "Rebecca Ferguson"],
+    "director": "Denis Villeneuve"
+  },
+  {
+    "id": 2,
+    "title": "Oppenheimer",
+    "year": 2023,
+    "genre": "Biografi, Dramë",
+    "duration": "3h 0m",
+    "rating": 8.3,
+    "description": "Historia e fizikanit J. Robert Oppenheimer, kreu i Projektit Manhattan që kontribuoi në krijimin e bombës atomike gjatë Luftës së Dytë Botërore.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "background": "https://images.unsplash.com/photo-1534447677768-be436bb09401?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1790&q=80",
+    "cast": ["Cillian Murphy", "Emily Blunt", "Matt Damon"],
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 3,
+    "title": "The Batman",
+    "year": 2022,
+    "genre": "Aksion, Krim",
+    "duration": "2h 56m",
+    "rating": 7.8,
+    "description": "Kur Riddler, një vrasës serial i frikshëm, fillon të vrasë figurat kryesore politike në Gotham, Batman detyrohet të hetojë korrupsionin e fshehur të qytetit dhe të kuptojë lidhjet e tij me familjen e tij.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg",
+    "background": "https://images.unsplash.com/photo-1534447677768-be436bb09401?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1790&q=80",
+    "cast": ["Robert Pattinson", "Zoë Kravitz", "Paul Dano"],
+    "director": "Matt Reeves"
+  }
+]

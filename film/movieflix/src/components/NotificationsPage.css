@@ -1,0 +1,120 @@
+.notifications-page {
+  min-height: 100vh;
+  background-color: var(--primary-dark);
+  padding: 100px 60px 40px;
+}
+
+.notifications-header {
+  margin-bottom: 40px;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.notifications-header h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--white);
+}
+
+.notifications-content {
+  background-color: rgba(255, 255, 255, 0.05);
+  border-radius: 15px;
+  padding: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.notifications-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.notification-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  border-left: 4px solid;
+  transition: var(--transition);
+}
+
+.notification-item:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+  transform: translateX(5px);
+}
+
+.notification-icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  color: white;
+  flex-shrink: 0;
+}
+
+.notification-content {
+  flex: 1;
+}
+
+.notification-content h3 {
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+  color: var(--white);
+}
+
+.notification-content p {
+  color: var(--light-gray);
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+
+.notification-time {
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.empty-notifications {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--light-gray);
+}
+
+.empty-notifications i {
+  font-size: 4rem;
+  margin-bottom: 20px;
+  color: rgba(255, 255, 255, 0.1);
+}
+
+.empty-notifications h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: var(--white);
+}
+
+@media (max-width: 768px) {
+  .notifications-page {
+    padding: 80px 20px 30px;
+  }
+  
+  .header-content {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+  }
+  
+  .notification-item {
+    flex-direction: column;
+    gap: 15px;
+  }
+}

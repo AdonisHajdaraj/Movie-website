@@ -1,0 +1,29 @@
+
+[
+  {
+    "id": 4,
+    "title": "Stranger Things",
+    "year": 2016,
+    "genre": "Fantashkencë, Terror",
+    "duration": "4 Sezone",
+    "rating": 8.7,
+    "description": "Kur një djalç i ri zhduket, një qytet i vogël zbulon një mister që përfshin eksperimente sekrete, forca të mbinatyrshme të frikshme dhe një vajzë të çuditshme.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDZkYmVhNjMtNWU4MC00MTQxLThjYzgtNzI4M2M0ZjY3NDRjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
+    "background": "https://images.unsplash.com/photo-1534447677768-be436bb09401?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1790&q=80",
+    "cast": ["Millie Bobby Brown", "Finn Wolfhard", "Winona Ryder"],
+    "director": "Duffer Brothers"
+  },
+  {
+    "id": 5,
+    "title": "The Crown",
+    "year": 2016,
+    "genre": "Dramë, Historik",
+    "duration": "6 Sezone",
+    "rating": 8.6,
+    "description": "Seguels të mbretërimit të Mbretëreshës Elizabeth II, nga martesa e saj në vitin 1947 deri në ditët e sotme, duke përfshirë ngjarjet që formuan të shekullin e fundit.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTEyNjBjYmYtYWYxYi00MmQyLThlYmItY2I4NzM1Mjg1MWYxXkEyXkFqcGdeQXVyMTU3ODI3MTk2._V1_FMjpg_UX1000_.jpg",
+    "background": "https://images.unsplash.com/photo-1534447677768-be436bb09401?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1790&q=80",
+    "cast": ["Claire Foy", "Olivia Colman", "Imelda Staunton"],
+    "director": "Peter Morgan"
+  }
+]
